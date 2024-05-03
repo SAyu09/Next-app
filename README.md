@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 @prisma/client firebase next-auth react-icons react-loader-spinner next-themes prisma
 
 
+# Next-app
